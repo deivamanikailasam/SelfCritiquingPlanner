@@ -1,0 +1,5 @@
+# Self-Critiquing Planner – Python dependencies
+# Install: pip install -r requirements.txt
+
+openai>=1.0.0
+streamlit>=1.28.0
